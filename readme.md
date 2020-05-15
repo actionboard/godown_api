@@ -15,8 +15,8 @@ This will give the response
 
 You can also get all data using offset. Default limit is 500
 
-`curl 'https://godown-test-api.herokuapp.com/godown`
+`curl 'https://godown-test-api.herokuapp.com/godown'`
 This will return first 500 items
-`curl 'https://godown-test-api.herokuapp.com/godown?offset=501`
+`curl 'https://godown-test-api.herokuapp.com/godown?offset=501'`
 This will return next 500 items
 
